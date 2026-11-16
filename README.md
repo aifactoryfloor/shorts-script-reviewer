@@ -4,8 +4,8 @@ Is a YouTube niche open for a new channel, or crowded with tiny channels making 
 $0, no API key. From the AI Factory Floor video "a new channel from zero".
 
 ## Install
-- **Claude Code:** `git clone https://github.com/abdullinaleksandr78-create/shorts-script-reviewer ~/.claude/skills/youtube-niche-checker`, then ask: "check my niche".
-- **Hermes Agent:** `git clone https://github.com/abdullinaleksandr78-create/shorts-script-reviewer ~/.hermes/skills/youtube-niche-checker`.
+- **Claude Code:** `git clone https://github.com/aifactoryfloor/shorts-script-reviewer ~/.claude/skills/youtube-niche-checker`, then ask: "check my niche".
+- **Hermes Agent:** `git clone https://github.com/aifactoryfloor/shorts-script-reviewer ~/.hermes/skills/youtube-niche-checker`.
 - **No agent?** Code -> Download ZIP, then run the two commands below yourself.
 
 ## Run
